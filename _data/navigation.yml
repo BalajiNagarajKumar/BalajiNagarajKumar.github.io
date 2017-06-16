@@ -3,6 +3,8 @@
 - title: Home
   url: /
 
+- title: About
+  url: /about/
 
 - title: Projects
   url: /projects/
@@ -13,8 +15,13 @@
 - title: Coursework
   url: /coursework/
 
-- title: About
-  url: /about/
+- title: Industry Links
+  url: /industry/
+  
+ - title: Connect
+  url: /contact/
+  
+
 
 
 
