@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Sibi Sankar
+title: Balaji Nagaraj Kumar 
 locale: en_US
-description: Simple blog on computer vision, control and robotics.
+description: Self Portfolio
 logo: bio-photo.jpg
 search: true
-url: http://sibisankar.me
+url: http://balajinagarajkumar.me
 
 # Jekyll configuration
 
@@ -45,19 +45,19 @@ titlecase: true
 
 # Site owner
 owner:
-  name : Sibi Sankar
+  name : Balaji Nagaraj Kumar
   avatar: bio-photo.jpg
-  email: sibi.vasank@gmail.com
+  email: balaji9300@gmail.com
   disqus-shortname:
   twitter: #username
-  facebook: sibisank 
-  github: quinasura 
-  linkedin: sibisankar
+  facebook: balajikingy 
+  github: BalajiNagarajKumar 
+  linkedin: balaji-nagaraj-kumar
   flickr: #username
   tumblr: #username
   weibo: #userid
   google:
-    plus: SibiSankar
+    plus: balaji9300
     analytics:
     verify:
     ad-client:
