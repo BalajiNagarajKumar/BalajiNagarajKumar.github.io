@@ -9,11 +9,6 @@ image:
 
 <center><a href="/assets/cv.pdf" download="sibis.pdf" class="btn">Download CV</a></center>
 
->Education is what other people do to me, learning is what you do to yourself.<br/>
-> -- <cite>Joi Ito</cite>
-
-* Table of Contents
-{:toc}
 
 ## @MadPrototypes Dr.M. Senthil Kumaran's Lab
 <figure class="third">
