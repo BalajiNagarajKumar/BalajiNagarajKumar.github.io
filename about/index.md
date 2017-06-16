@@ -6,6 +6,13 @@ search_omit: false
 modified: 2014-08-08T20:04:41.231140-04:00
 ---
 
+> I am a sort of person who develops solutionapply my knowledge to seek solution for a problem
+
+Yes I am an **ENGINEER** by profession and . A Proud Electrical Engineer.
+I seek to develope and utilise a theoritical conecpt in optimising a system in real life. 
+
+
+
 > “Study hard what interests you the most in the most undisciplined, irreverent and original manner possible” 
 
 This quote by [`Richard
