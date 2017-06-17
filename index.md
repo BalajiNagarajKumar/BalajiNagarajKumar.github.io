@@ -1,11 +1,9 @@
 ---
 layout: mainpage
-title: About Me
-excerpt: "About me"
+title: Home
 image:
 search_omit: false
 ---
-
 <center><a href="/assets/cv.pdf" download="Balaji_Nagaraj_Kumar_CV.pdf" class="btn">Download CV</a></center>
 
 > I am a *Researcher* at heart, who strive towards identifying the problems in its quantum level 
