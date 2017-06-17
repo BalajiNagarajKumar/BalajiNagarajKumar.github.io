@@ -1,6 +1,5 @@
 ---
 layout: mainpage
-title: Home
 image:
 search_omit: false
 ---
