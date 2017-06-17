@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: mainpage
 title: About Me
 excerpt: "About me"
 search_omit: false
