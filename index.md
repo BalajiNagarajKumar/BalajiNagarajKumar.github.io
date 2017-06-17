@@ -1,67 +1,22 @@
 ---
-layout: mainpage
-title: 
-excerpt: "A simple and clean responsive Jekyll theme for words and photos."
+layout: page
+title: About Me
+excerpt: "About me"
 search_omit: false
 ---
 
-<center><a href="/assets/cv.pdf" download="sibis.pdf" class="btn">Download CV</a></center>
+<center><a href="/assets/cv.pdf" download="Balaji_Nagaraj_Kumar_CV.pdf" class="btn">Download CV</a></center>
 
-Latest
+> I am a *Researcher* at heart, who strive towards identifying the problems in its quantum level 
+> I am a *Strategist* by thinking, who plan solutions to problems in a 360 degree approach which can be executed feasibly
+> **Yes**, I am an '***Engineer***' by profession, who engineer a system on a motive to help defining our future in a sustainable path
 
-## @MadPrototypes Dr.M. Senthil Kumaran's Lab
-<figure class="third">
-<img src="/images/com-5.jpg" alt="image">
-<img src="/images/com-6.jpg" alt="image">
-<img src="/images/com-1.jpg" alt="image">
-<img src="/images/com-3.jpg" alt="image">
-<img src="/images/com-4.jpg" alt="image">
-<img src="/images/com-2.jpg" alt="image">
-<figcaption> <a href="https://www.youtube.com/playlist?list=PLyNnpQatejiddaqTRwLV-R_0Ld4xgMkSb">
-Under Senthil Sir's Guidance we had the leeway to work on some rad prototypes. Also as the Team representing ERF SSN we won at a number of National Robotics and Image processing competitions.</a></figcaption>
-</figure>
----
 
-## @Co-Founder ChennaiMakerSpace
-<figure>
-<a href="http://www.indianweb2.com/2016/11/22/best-makers-paces-in-india/"><img src="/images/make-0_1.jpg" alt="image"></a>
-<figcaption>Chennai Makerspace was featured as one of the top 20 Makerspaces in India.</figcaption>
-<a href="http://www.thebetterindia.com/53681/10-makerspaces-build-innovate-invent/"><img src="/images/make-0.jpg" alt="image"></a>
-<figcaption>Chennai Makerspace was featured as one the best places to innovate in India.</figcaption>
-</figure>
-<figure class="third">
-<img src="/images/make-3.jpg" alt="image">
-<img src="/images/make-2.jpg" alt="image">
-<img src="/images/make-1.jpg" alt="image">
-<img src="/images/make-4.jpg" alt="image">
-<img src="/images/make-5.jpg" alt="image">
-<img src="/images/make-6.jpg" alt="image">
-<img src="/images/make-7.jpg" alt="image">
-<figcaption><a href="https://www.facebook.com/Chennaimakers/">Some Pics from the Workshops and Meetups conducted at the Makerspace.</a></figcaption>
-</figure>
----
+So far, My academic experience was prodigious, as *I focused in acquiring real knowledge in the original potential manner*. The Best Outgoing Student Award for my highest achievements in academics with 98.75% in high school majors – Mathematics, Physics and Chemistry blended with my love for engineering, helped me complete Bachelor’s degree program in Electrical and Electronics Engineering (B.E-EEE) at Sri Sivasubramaniya Nadar College of Engineering (SSN), Anna University, Chennai. 
 
-## @Mad Hackathoning.
-<figure class="half">
-<img src="/images/hack-3.jpg" alt="image">
-<img src="/images/hack-4.jpg" alt="image">
-<img src="/images/hack-1.jpg" alt="image">
-<img src="/images/hack-2.jpg" alt="image">
-<figcaption>As the team representing Chennai Makerspace 2015-16 was the year of the hackathon we won in quite a number of them.</figcaption>
-</figure>
----
+During my undergraduate experience, I apperceive that even though the developments in the electricity sector are exciting and interesting, the need for *innovation and efficient energy management* are the key to **sustainable electricity**. Thereby I foresee the advent of smart technologies into electricity sector will turn electricity as an *optimised and conveniently efficient system*. The recent advancements in artificial intelligence, optimisation algorithms etc., and their advent into electrical systems, firmly support my point. Therefore I aligned all my research activities towards contributing to smart electricity systems - more specifically in **control, power systems and sustainable electromobility**. 
 
-## STEM Initiatives
-<figure class="third">
-<img src="/images/ins-1.jpg" alt="image">
-<img src="/images/ins-2.jpg" alt="image">
-<img src="/images/ins-3.jpg" alt="image">
-<img src="/images/iit-1.jpg" alt="image">
-<img src="/images/iit-2.jpg" alt="image">
-<img src="/images/iit-3.jpg" alt="image">
-<img src="/images/iit-4.jpg" alt="image">
-<img src="/images/skool.jpg" alt="image">
-<figcaption>Our contribution at INSPIRE Camp, SkoolDiff and IIT Maker Summit.</figcaption>
-</figure>
----
+I strongly believe my *well-knit understanding* towards electrical engineering, *reinforced research* through innovative projects & *the love* for entrepreneurship would enable myself as a 'qualified engineer' both in fulfilling my motive and help achieving the sustainable future.
 
+
+Combination of **Engineering**, **Innovation** and **Commercialization** in power and energy sector is what I am aspiring for in my future career.
