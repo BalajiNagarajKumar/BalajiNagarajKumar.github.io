@@ -2,6 +2,7 @@
 layout: mainpage
 title: About Me
 excerpt: "About me"
+image:
 search_omit: false
 ---
 
