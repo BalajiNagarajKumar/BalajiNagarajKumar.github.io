@@ -3,12 +3,11 @@ layout: mainpage
 title: 
 excerpt: "A simple and clean responsive Jekyll theme for words and photos."
 search_omit: false
-image:
-  feature: front_page (2).jpg
 ---
 
 <center><a href="/assets/cv.pdf" download="sibis.pdf" class="btn">Download CV</a></center>
 
+Latest
 
 ## @MadPrototypes Dr.M. Senthil Kumaran's Lab
 <figure class="third">
