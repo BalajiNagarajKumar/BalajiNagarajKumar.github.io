@@ -1,21 +1,22 @@
 # Site navigation links
 
-- title: About
+- title: Home
   url: /
 
-- title: Industrial Links
+- title: About
   url: /about/
-
-- title: Projects
-  url: /projects/
-
-- title: Research 
-  url: /publications/
 
 - title: Coursework
   url: /coursework/
 
+- title: Projects 
+  url: /projects/
 
+- title: Research
+  url: /publications/
+
+-title: Experiences
+  url: /CV/
 
 
 
